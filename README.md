@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @GenJen15
 - 👀 I’m interested in coding, drawing, playing guitar, solving problems.
 - 🌱 I’m currently learning c++, java, html, css, javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m not looking to collaborate for now..
+- 📫 How to reach me FB: fredaxzel
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Jack of all trades, master of none.
 
 <!---
 GenJen15/GenJen15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
